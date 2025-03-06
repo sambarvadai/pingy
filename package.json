@@ -1,0 +1,20 @@
+{
+  "name": "pingy",
+  "version": "1.0.0",
+  "description": "Initial version for a Linux CTF tool powered by LLM's.",
+  "keywords": [
+    "pingy"
+  ],
+  "license": "ISC",
+  "author": "Anirudh Chandrasekaran",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "test pingy"
+  },
+  "dependencies": {
+    "parcel": "^2.13.3",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}

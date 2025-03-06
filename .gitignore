@@ -1,0 +1,9 @@
+#Space for directories
+node_modules/
+dist/
+.parcel_cache/
+#Space for files
+.env
+npm-debug.log
+yarn-debug.log
+yarn-error.log
